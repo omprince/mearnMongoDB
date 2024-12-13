@@ -1,0 +1,16 @@
+------------------------------------------------------------ CLIENT -------------------------------------------------------------
+-- Install version
+1. react-route-dom
+------------------------------------------------------------ SERVER -------------------------------------------------------------
+-- Install version
+1. nodemon (npm i -D nodemon)
+2. express
+3. cors
+4. mongoose
+5. cookie-parser
+6. dotenv
+
+
+
+-- changes in servers scripts
+1. Here we are using modle type (import system) --- type : "module"
